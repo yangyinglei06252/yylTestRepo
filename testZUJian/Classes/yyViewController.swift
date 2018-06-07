@@ -1,5 +1,5 @@
 //
-//  yylViewController.swift
+//  yyViewController.swift
 //  testZUJian_Example
 //
 //  Created by koukou on 2018/6/7.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class yylViewController: UIViewController {
+class yyViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

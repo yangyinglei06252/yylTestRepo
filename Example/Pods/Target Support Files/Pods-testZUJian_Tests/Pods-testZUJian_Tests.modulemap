@@ -1,0 +1,6 @@
+framework module Pods_testZUJian_Tests {
+  umbrella header "Pods-testZUJian_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

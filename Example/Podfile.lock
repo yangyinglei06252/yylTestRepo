@@ -1,0 +1,16 @@
+PODS:
+  - testZUJian (1.0.1)
+
+DEPENDENCIES:
+  - testZUJian (from `../`)
+
+EXTERNAL SOURCES:
+  testZUJian:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  testZUJian: 09fdcaa896d865649433a759dcbb6511f356c525
+
+PODFILE CHECKSUM: 4419dba1132a5d32dd56f97a242761c7d13ce554
+
+COCOAPODS: 1.5.0
